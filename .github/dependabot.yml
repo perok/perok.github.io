@@ -1,0 +1,9 @@
+
+# https://docs.github.com/en/github/administering-a-repository/about-dependabot-version-updates#supported-repositories-and-ecosystems
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    # default location of `.github/workflows`
+    directory: "/"
+    schedule:
+      interval: "weekly"
