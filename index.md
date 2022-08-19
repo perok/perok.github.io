@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Happy Jekylling!"
+layout: home
+author_profile: true
 ---
 
 ## You're ready to go!
